@@ -1,4 +1,4 @@
-name: study-assistant
+name: orderbot
 channels:
   - defaults
 dependencies:
@@ -139,4 +139,4 @@ dependencies:
       - tzdata==2025.3
       - uc-micro-py==1.0.3
       - xyzservices==2025.11.0
-prefix: /Users/yinyueyang/opt/anaconda3/envs/study-assistant
+prefix: /Users/yinyueyang/opt/anaconda3/envs/orderbot

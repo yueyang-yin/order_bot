@@ -1,7 +1,9 @@
-# Study Assistant
+# Order Bot
 
-A lightweight **learning assistant** built with **Panel** and OpenAI’s **Responses API**.
-Supports **text questions** and **image uploads** for step-by-step explanations and short quizzes. 📘
+A lightweight **Order Bot** built with **Panel** and OpenAI’s **Responses API**.
+
+> 🏷️ The goal of this project is **not** to provide a production-ready chatbot,  
+> but to demonstrate **clear, minimal code snippets** for building conversational flows in **specific scenarios**.
 
 ---
 
@@ -29,7 +31,7 @@ Open the notebook and run all cells:
 jupyter lab
 ```
 
-Then open `inline_study_assistant.ipynb`.
+Then open `main.ipynb`.
 
 ---
 
