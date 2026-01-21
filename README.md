@@ -11,7 +11,7 @@ A lightweight **Order Bot** built with **Panel** and OpenAI’s **Responses API*
 
 ```bash
 conda env create -f environment.yml
-conda activate study-assistant
+conda activate orderbot
 cp .env.example .env
 ```
 
